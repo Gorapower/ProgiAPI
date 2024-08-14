@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgiAPI", "ProgiAPI\ProgiAPI.csproj", "{43AD3EA9-034D-438C-B460-0D53724FB036}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgiAPI.Tests", "ProgiAPI.Tests\ProgiAPI.Tests.csproj", "{4CF735C4-8218-4D1F-A93B-94C7C7F18027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43AD3EA9-034D-438C-B460-0D53724FB036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43AD3EA9-034D-438C-B460-0D53724FB036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43AD3EA9-034D-438C-B460-0D53724FB036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43AD3EA9-034D-438C-B460-0D53724FB036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CF735C4-8218-4D1F-A93B-94C7C7F18027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF735C4-8218-4D1F-A93B-94C7C7F18027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF735C4-8218-4D1F-A93B-94C7C7F18027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF735C4-8218-4D1F-A93B-94C7C7F18027}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D05B381D-C935-4311-8DF9-336EFFFF958F}
+	EndGlobalSection
+EndGlobal
